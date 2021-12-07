@@ -4,7 +4,7 @@ setup(
     name='temporalis',
     version='0.1',
     packages=['temporalis', 'temporalis.providers'],
-    url='https://github.com/HelloChatterbox/pyweather',
+    url='https://github.com/OpenJarbas/temporalis',
     license='Apache2',
     author='jarbasAi',
     install_requires=["requests",
