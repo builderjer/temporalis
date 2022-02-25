@@ -4,9 +4,9 @@ setup(
     name='temporalis',
     version='0.1',
     packages=['temporalis', 'temporalis.providers'],
-    url='https://github.com/OpenJarbas/temporalis',
+    url='https://github.com/builderjer/temporalis',
     license='Apache2',
-    author='jarbasAi',
+    author='builderjer',
     install_requires=["requests",
                       "timezonefinder",
                       "geopy",
@@ -16,6 +16,6 @@ setup(
                       "pytz",
                       "requests-cache",
                       "astral"],
-    author_email='jarbasai@mailfence.com',
+    author_email='builderjer@gmail.com',
     description='unified weather service apis'
 )
